@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T09:35:07.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="J0pIY51y1uoTyNHT1Bu2" version="20.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-11T09:36:01.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="odPB5ZURARPzrCNkOyiW" version="20.8.3" type="github" pages="2">
   <diagram id="cuSqO_4xSp7wu_9kqnW6" name="Page-1">
     <mxGraphModel dx="2126" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RL_vZmTEsVki9VU4-pgK-1" value="main()" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RL_vZmTEsVki9VU4-pgK-2" value="output_aqi()" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RL_vZmTEsVki9VU4-pgK-3" value="output_summary()" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="540" y="210" width="100" height="100" as="geometry" />
+          <mxGeometry x="670" y="200" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RL_vZmTEsVki9VU4-pgK-4" value="output_invalid()" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-510" y="150" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RL_vZmTEsVki9VU4-pgK-5" value="output_statistics()" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="700" y="200" width="100" height="100" as="geometry" />
+          <mxGeometry x="1200" y="180" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RL_vZmTEsVki9VU4-pgK-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.015;entryY=0.678;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RL_vZmTEsVki9VU4-pgK-4" target="RL_vZmTEsVki9VU4-pgK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -240,6 +240,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="620" as="sourcePoint" />
             <mxPoint x="70" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVagQFuCA1IBpd_fFFHr-38" value="count_sensor()" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVagQFuCA1IBpd_fFFHr-39" value="get_id()" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVagQFuCA1IBpd_fFFHr-40" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.036;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.735;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cVagQFuCA1IBpd_fFFHr-38" target="RL_vZmTEsVki9VU4-pgK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="310" as="sourcePoint" />
+            <mxPoint x="640" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVagQFuCA1IBpd_fFFHr-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.66;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cVagQFuCA1IBpd_fFFHr-39" target="cVagQFuCA1IBpd_fFFHr-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="390" as="sourcePoint" />
+            <mxPoint x="490" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
