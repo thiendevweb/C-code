@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-15T14:26:35.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.4" etag="jWl1Xsx6-bz3xlaV6wVi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-15T14:29:53.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.4" etag="RNJWHpCPU-a51SxDHd_K" type="github">
   <diagram id="_fYDMujNiJvKRh7FUOJW" name="Page-1">
-    <mxGraphModel dx="2977" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1701" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,8 +113,8 @@
         <mxCell id="f9d5Tt-CIOLPbhgGXcN_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f9d5Tt-CIOLPbhgGXcN_-30" target="f9d5Tt-CIOLPbhgGXcN_-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9d5Tt-CIOLPbhgGXcN_-30" value="num_sensors = atoi(input[1])&lt;br&gt;sampling = atoi(input[3])&lt;br&gt;interval = atoi(input[5])" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-227.5" y="1100" width="185" height="60" as="geometry" />
+        <mxCell id="f9d5Tt-CIOLPbhgGXcN_-30" value="num_sensors = atoi(input[1])&lt;br&gt;sampling = atoi(input[3])&lt;br&gt;interval = atoi(input[5])&lt;br&gt;simulation_sensors(num_sensors,sampling,interval)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-273.75" y="1100" width="277.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f9d5Tt-CIOLPbhgGXcN_-34" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-195" y="1220" width="120" height="80" as="geometry" />
