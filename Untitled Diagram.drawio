@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T12:09:02.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.7" etag="O71pn3ZkKHT0g_Zo0YFd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T12:09:06.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HqsrzFF4Fgie794blVJA" version="21.2.7" type="github">
   <diagram name="Page-1" id="qD9RlcaOx2RWQGp1ZABG">
-    <mxGraphModel>
+    <mxGraphModel dx="1276" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cFpy6kTizkumA-D4YpTp-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-2" target="cFpy6kTizkumA-D4YpTp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-2" value="Finger image acquisition" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-4" target="cFpy6kTizkumA-D4YpTp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-4" value="ROI&lt;br&gt;Extraction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-6" target="cFpy6kTizkumA-D4YpTp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-6" value="Image negative&amp;nbsp;&lt;br&gt;transform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-8" target="cFpy6kTizkumA-D4YpTp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-8" value="Feature&amp;nbsp;&lt;br&gt;Extraction&lt;br&gt;(PCA)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-10" target="cFpy6kTizkumA-D4YpTp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-10" value="Feature&amp;nbsp;&lt;br&gt;Matching&lt;br&gt;and KNN Classifier&lt;br&gt;(KNN)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-12" target="cFpy6kTizkumA-D4YpTp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-12" value="Finger image acquisition" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-14" target="cFpy6kTizkumA-D4YpTp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-14" value="ROI&lt;br&gt;Extraction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-16" target="cFpy6kTizkumA-D4YpTp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-16" value="Image negative&amp;nbsp;&lt;br&gt;transform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-18" target="cFpy6kTizkumA-D4YpTp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-18" value="Feature&amp;nbsp;&lt;br&gt;Extraction&lt;br&gt;(PCA)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cFpy6kTizkumA-D4YpTp-20" target="cFpy6kTizkumA-D4YpTp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-20" value="Training&lt;br&gt;Dataset" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cFpy6kTizkumA-D4YpTp-21" value="Finger knuckle verification" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="110" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
