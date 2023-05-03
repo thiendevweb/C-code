@@ -1,72 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T10:01:23.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="I4l-Ki0Aqj03szTUgXCr" version="21.0.6" type="github">
-  <diagram name="Page-1" id="t5VrQnGTbGxkw-4pgn2N">
-    <mxGraphModel dx="1276" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-05-03T12:09:02.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.7" etag="O71pn3ZkKHT0g_Zo0YFd" type="github">
+  <diagram name="Page-1" id="qD9RlcaOx2RWQGp1ZABG">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-2" target="bhaPgcTQWNV-I3Yo_InO-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-2" value="Finger image acquisition" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-4" target="bhaPgcTQWNV-I3Yo_InO-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-4" value="ROI&lt;br&gt;Extraction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-6" target="bhaPgcTQWNV-I3Yo_InO-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-6" value="Image negative&amp;nbsp;&lt;br&gt;transform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-8" target="bhaPgcTQWNV-I3Yo_InO-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-8" value="Feature&amp;nbsp;&lt;br&gt;Extraction&lt;br&gt;(PCA)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-10" target="bhaPgcTQWNV-I3Yo_InO-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-10" value="Feature&amp;nbsp;&lt;br&gt;Matching&lt;br&gt;and KNN Classifier&lt;br&gt;(KNN)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="80" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-12" target="bhaPgcTQWNV-I3Yo_InO-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-12" value="Finger image acquisition" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="230" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-14" target="bhaPgcTQWNV-I3Yo_InO-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-14" value="ROI&lt;br&gt;Extraction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="230" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-16" target="bhaPgcTQWNV-I3Yo_InO-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-16" value="Image negative&amp;nbsp;&lt;br&gt;transform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="230" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-18" target="bhaPgcTQWNV-I3Yo_InO-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-18" value="Feature&amp;nbsp;&lt;br&gt;Extraction&lt;br&gt;(PCA)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="230" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhaPgcTQWNV-I3Yo_InO-20" target="bhaPgcTQWNV-I3Yo_InO-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-20" value="Training&lt;br&gt;Dataset" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="230" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bhaPgcTQWNV-I3Yo_InO-21" value="Finger knuckle verification" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="880" y="80" width="110" height="110" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
