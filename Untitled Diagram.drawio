@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T14:08:51.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="St6xx6vm_rBCgl7nTvh9" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T14:10:36.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dcUBWv_29TPdaUcwUAFl" version="21.2.7" type="github">
   <diagram name="Page-1" id="4UdqBjL7rQ1F55i3EBeD">
     <mxGraphModel dx="1276" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="BcKt8jvx2DkHZgKObaiW-2" value="Image" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BcKt8jvx2DkHZgKObaiW-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BcKt8jvx2DkHZgKObaiW-3" value="Convert key features into data points" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
