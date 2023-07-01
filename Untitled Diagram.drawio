@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T09:45:23.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Xtn08VDZ1Ebmd4dP1rqe" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T09:47:06.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5TdVtZ-Akj4GRHrgZrjz" version="21.5.2" type="github">
   <diagram name="Page-1" id="3nB90zPooGlP-AQ_LGa6">
     <mxGraphModel dx="1021" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,10 +61,13 @@
         <mxCell id="cG3lhfiiMqA4g8fclzWP-25" value="MF_START = ON trong 10s" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cG3lhfiiMqA4g8fclzWP-45" value="Đ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cG3lhfiiMqA4g8fclzWP-28" target="cG3lhfiiMqA4g8fclzWP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cG3lhfiiMqA4g8fclzWP-28" value="CBL = ON&lt;br&gt;trong thời gian&lt;br&gt;t &amp;gt; 1p" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="cG3lhfiiMqA4g8fclzWP-30" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cG3lhfiiMqA4g8fclzWP-28">
+        <mxCell id="cG3lhfiiMqA4g8fclzWP-30" value="S" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cG3lhfiiMqA4g8fclzWP-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="720" as="sourcePoint" />
             <mxPoint x="560" y="715" as="targetPoint" />
@@ -96,6 +99,21 @@
         </mxCell>
         <mxCell id="cG3lhfiiMqA4g8fclzWP-40" value="MF_START = OFF trong 20s" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cG3lhfiiMqA4g8fclzWP-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cG3lhfiiMqA4g8fclzWP-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="430" as="sourcePoint" />
+            <mxPoint x="820" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cG3lhfiiMqA4g8fclzWP-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="360" as="sourcePoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cG3lhfiiMqA4g8fclzWP-44" value="MF_STOP = ON&lt;br&gt;CDL_MF = OFF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
