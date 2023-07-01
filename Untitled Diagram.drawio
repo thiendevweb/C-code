@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T07:15:55.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F0pjAPM6BLUbX_SBZTBx" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T07:17:28.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jYU-NhF9_NiW9aMy2LRS" version="21.5.2" type="github">
   <diagram name="Page-1" id="3nB90zPooGlP-AQ_LGa6">
     <mxGraphModel dx="1276" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         <mxCell id="G3K6QtKUeZGnVxPSgdZC-41" value="CBL = ON&lt;br&gt;với thời gian t2 &amp;gt; 1 phút" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372.75" y="760" width="91.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="G3K6QtKUeZGnVxPSgdZC-44" value="CBL = ON&lt;br&gt;STOPMF = ON&lt;br&gt;CBMF = OFF&lt;br&gt;CDL_MF = OFF" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="G3K6QtKUeZGnVxPSgdZC-44" value="STOPMF = ON&lt;br&gt;CDL_MF = OFF" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G3K6QtKUeZGnVxPSgdZC-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="G3K6QtKUeZGnVxPSgdZC-44" edge="1">
