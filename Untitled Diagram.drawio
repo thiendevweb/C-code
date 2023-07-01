@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T15:15:18.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JvFd904gpKRADxm4IU87" version="21.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-01T15:17:09.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Gu3LeS0j907I6zpGsLKE" version="21.5.2" type="github" pages="4">
   <diagram name="Page-1" id="3nB90zPooGlP-AQ_LGa6">
     <mxGraphModel dx="1021" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -404,7 +404,7 @@
         <mxCell id="tNEaOEqrZb91hq2CgERO-14" value="S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tNEaOEqrZb91hq2CgERO-7" target="tNEaOEqrZb91hq2CgERO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNEaOEqrZb91hq2CgERO-7" value="STOP" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tNEaOEqrZb91hq2CgERO-7" value="STOP = ON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tNEaOEqrZb91hq2CgERO-9" value="Dừng tín hiệu&lt;br&gt;ở trạng thái hiện&lt;br&gt;tại" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -416,7 +416,7 @@
         <mxCell id="tNEaOEqrZb91hq2CgERO-22" value="S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tNEaOEqrZb91hq2CgERO-13" target="tNEaOEqrZb91hq2CgERO-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNEaOEqrZb91hq2CgERO-13" value="LINE1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tNEaOEqrZb91hq2CgERO-13" value="LINE1 = ON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tNEaOEqrZb91hq2CgERO-15" value="DBX1 = ON&lt;br&gt;DBD2 = ON" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -428,7 +428,7 @@
         <mxCell id="tNEaOEqrZb91hq2CgERO-26" value="S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tNEaOEqrZb91hq2CgERO-20" target="tNEaOEqrZb91hq2CgERO-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNEaOEqrZb91hq2CgERO-20" value="LINE2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tNEaOEqrZb91hq2CgERO-20" value="LINE2 = ON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tNEaOEqrZb91hq2CgERO-21" value="DBX2 = ON&lt;br&gt;DBD1 = ON" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -440,7 +440,7 @@
         <mxCell id="tNEaOEqrZb91hq2CgERO-46" value="S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tNEaOEqrZb91hq2CgERO-24" target="tNEaOEqrZb91hq2CgERO-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNEaOEqrZb91hq2CgERO-24" value="FREE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tNEaOEqrZb91hq2CgERO-24" value="FREE = ON" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tNEaOEqrZb91hq2CgERO-25" value="DBV1 ,DBV2 nhấp&lt;br&gt;nháy" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -497,8 +497,8 @@
         <mxCell id="tNEaOEqrZb91hq2CgERO-55" value="Đ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tNEaOEqrZb91hq2CgERO-45" target="tNEaOEqrZb91hq2CgERO-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tNEaOEqrZb91hq2CgERO-45" value="Hệ thống&lt;br&gt;bình thường" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="800" width="90" height="100" as="geometry" />
+        <mxCell id="tNEaOEqrZb91hq2CgERO-45" value="STOP = OFF&lt;br&gt;LINE1 = OFF&lt;br&gt;LINE2 = OFF&lt;br&gt;FREE = OFF" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="790" width="107.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tNEaOEqrZb91hq2CgERO-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tNEaOEqrZb91hq2CgERO-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -513,7 +513,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tNEaOEqrZb91hq2CgERO-54" value="Thực hiện sáng lần&lt;br&gt;lượt các đèn của nhánh 1 và nhánh&lt;br&gt;2 theo quy luật" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="316.25" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tNEaOEqrZb91hq2CgERO-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
