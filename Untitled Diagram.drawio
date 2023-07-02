@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T10:49:28.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RppBGaccaCShfTKK7y4N" version="21.5.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-02T11:17:25.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NZ2b3WiWG61o5M6nlDZ3" version="21.5.2" type="github" pages="7">
   <diagram name="Page-1" id="3nB90zPooGlP-AQ_LGa6">
     <mxGraphModel dx="1276" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -982,7 +982,7 @@
         <mxCell id="YGfxKJ_qP4rTnbirfVsy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YGfxKJ_qP4rTnbirfVsy-14" target="YGfxKJ_qP4rTnbirfVsy-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YGfxKJ_qP4rTnbirfVsy-14" value="Tắt Timer0&lt;br&gt;Bật/Tắt D1 sau mỗi 10ms&lt;br&gt;Bật D2 trong 4ms sau đó tắt D2 trong 16ms&lt;br&gt;Bật Timer0" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="YGfxKJ_qP4rTnbirfVsy-14" value="Tắt Timer0&lt;br&gt;Bật/Tắt D1 sau mỗi 10ms&lt;br&gt;Tắt D2 trong 16ms sau đó bật D2 trong 4ms&lt;br&gt;Bật Timer0" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="471.25" y="210" width="157.5" height="120" as="geometry" />
         </mxCell>
       </root>
