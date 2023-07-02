@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T08:05:00.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ByRX-q1crFAeggsLnrYx" version="21.5.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-02T08:36:40.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ppozIzB_GTnL8cg3Ejcw" version="21.5.2" type="github" pages="7">
   <diagram name="Page-1" id="3nB90zPooGlP-AQ_LGa6">
     <mxGraphModel dx="1276" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -943,31 +943,31 @@
         <mxCell id="YGfxKJ_qP4rTnbirfVsy-1" value="main" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YGfxKJ_qP4rTnbirfVsy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YGfxKJ_qP4rTnbirfVsy-2" target="YGfxKJ_qP4rTnbirfVsy-4">
+        <mxCell id="YGfxKJ_qP4rTnbirfVsy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YGfxKJ_qP4rTnbirfVsy-2" target="YGfxKJ_qP4rTnbirfVsy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YGfxKJ_qP4rTnbirfVsy-2" value="- Cấu hình trạng thái hoạt động cho Timer0, mode 2, khởi động bằng phần&amp;nbsp;&lt;br&gt;- Thiết lập giá trị ban đầu cho TL0,TH0&lt;br&gt;- Cấu hình cho phép ngắt&amp;nbsp;&lt;br&gt;- Cấu hình cho phép ngắt Timer0&lt;br&gt;- Thiết lập giá trị ban đầu cho P1.2 và P1.3&lt;br&gt;- Bật Timer 0" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="175" y="200" width="190" height="170" as="geometry" />
+        <mxCell id="YGfxKJ_qP4rTnbirfVsy-2" value="- Cấu hình trạng thái hoạt động cho Timer0, mode 2, khởi động bằng phần&amp;nbsp;&lt;br&gt;- Thiết lập giá trị ban đầu cho TL0,TH0&lt;br&gt;- Cấu hình cho phép ngắt&amp;nbsp;&lt;br&gt;- Cấu hình cho phép ngắt Timer0&lt;br&gt;- Thiết lập giá trị ban đầu cho P1.2 và P1.3&lt;br&gt;- Thiết lập giá trị đếm số lần overflow ban đầu cho 2 thanh ghi R1, R2&lt;br&gt;- Bật Timer 0" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="175" y="200" width="185" height="190" as="geometry" />
         </mxCell>
         <mxCell id="YGfxKJ_qP4rTnbirfVsy-4" value="" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="207.5" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YGfxKJ_qP4rTnbirfVsy-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YGfxKJ_qP4rTnbirfVsy-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="450" as="sourcePoint" />
-            <mxPoint x="170" y="440" as="targetPoint" />
+            <mxPoint x="160" y="490" as="sourcePoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YGfxKJ_qP4rTnbirfVsy-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="450" as="sourcePoint" />
-            <mxPoint x="160" y="400" as="targetPoint" />
+            <mxPoint x="160" y="490" as="sourcePoint" />
+            <mxPoint x="160" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YGfxKJ_qP4rTnbirfVsy-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="400" as="sourcePoint" />
-            <mxPoint x="270" y="400" as="targetPoint" />
+            <mxPoint x="160" y="440" as="sourcePoint" />
+            <mxPoint x="270" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YGfxKJ_qP4rTnbirfVsy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YGfxKJ_qP4rTnbirfVsy-9" target="YGfxKJ_qP4rTnbirfVsy-14">
