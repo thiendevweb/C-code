@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T04:06:57.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FD3YFhHp3X3pjlXdU1jt" version="21.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-04T04:16:09.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T_QFuKKHyrVd1CskMtw8" version="21.5.2" type="github" pages="8">
   <diagram name="Page-1" id="3nB90zPooGlP-AQ_LGa6">
     <mxGraphModel dx="1276" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -992,27 +992,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mCuf_tMDOFyNIZckAmjZ" name="Page-8">
-    <mxGraphModel dx="1036" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8WYLETuakCqYdxbqHFGZ-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="400" y="440" as="sourcePoint" />
-            <mxPoint x="400" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8WYLETuakCqYdxbqHFGZ-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="120" y="240" as="sourcePoint" />
-            <mxPoint x="680" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8WYLETuakCqYdxbqHFGZ-9" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bảo mật dữ liệu cá nhân&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="70" width="80" height="60" as="geometry" />
+          <mxGeometry x="600" y="60" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8WYLETuakCqYdxbqHFGZ-10" value="Tích hợp Chatbot AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="130" width="80" height="60" as="geometry" />
+        <mxCell id="8WYLETuakCqYdxbqHFGZ-10" value="Face ID,quét vân tay tích hợp vào hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8WYLETuakCqYdxbqHFGZ-11" value="Hệ thống cảnh báo khi phát hiện đăng nhập lạ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="110" height="60" as="geometry" />
@@ -1024,10 +1012,25 @@
           <mxGeometry x="120" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8WYLETuakCqYdxbqHFGZ-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Lợi ích cao&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="20" width="90" height="40" as="geometry" />
+          <mxGeometry x="370" y="-30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8WYLETuakCqYdxbqHFGZ-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Lợi ích thấp&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8WYLETuakCqYdxbqHFGZ-18" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;strokeWidth=12;strokeColor=#4D4D4D;endSize=6;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80" y="240" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WYLETuakCqYdxbqHFGZ-19" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;strokeWidth=12;strokeColor=#4D4D4D;endSize=6;exitX=0.36;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8WYLETuakCqYdxbqHFGZ-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="70" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WYLETuakCqYdxbqHFGZ-20" value="Tích hợp chatbot AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
