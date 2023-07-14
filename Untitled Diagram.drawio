@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T05:15:30.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CkxRmjXWt8fcCvbKOpcT" version="21.5.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-14T14:52:36.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qzovEyqMPeqXQ5f-p1kJ" version="21.6.2" type="github" pages="10">
   <diagram name="Page-1" id="3nB90zPooGlP-AQ_LGa6">
-    <mxGraphModel dx="1276" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1162,6 +1162,35 @@
         </mxCell>
         <mxCell id="EB1Pb6HjRe54pdhhQqJF-5" value="Liên hệ HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o8o4ktPZa7RRqtKFSvy1" name="Page-10">
+    <mxGraphModel dx="1036" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ijjKwSlJNYuyWVxI5NNY-5" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ijjKwSlJNYuyWVxI5NNY-1" target="ijjKwSlJNYuyWVxI5NNY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijjKwSlJNYuyWVxI5NNY-8" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ijjKwSlJNYuyWVxI5NNY-1" target="ijjKwSlJNYuyWVxI5NNY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijjKwSlJNYuyWVxI5NNY-1" value="Object Input = Object b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ijjKwSlJNYuyWVxI5NNY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ijjKwSlJNYuyWVxI5NNY-2" target="ijjKwSlJNYuyWVxI5NNY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijjKwSlJNYuyWVxI5NNY-2" value="Predict = Object b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ijjKwSlJNYuyWVxI5NNY-4" value="Successful verification" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ijjKwSlJNYuyWVxI5NNY-7" value="Verification failed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
